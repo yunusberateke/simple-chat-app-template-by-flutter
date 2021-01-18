@@ -1,17 +1,17 @@
 # simple-chat-app-template-by-flutter
 **Pages**
-1-Onboarding
-2-Home
-3-Message detail
-4-Profile
-5-Settings
-6-Profile
+* 1-Onboarding
+* 2-Home
+* 3-Message detail
+* 4-Profile
+* 5-Settings
+* 6-Profile
 
 **Components**
-name_surname_and_image_area
-short_message_card
-header_name_image
-message
+* name_surname_and_image_area
+* short_message_card
+* header_name_image
+* message
 
 
 **Screenshots**
