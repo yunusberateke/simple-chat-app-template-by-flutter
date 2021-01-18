@@ -1,11 +1,11 @@
 # simple-chat-app-template-by-flutter
 **Pages**
-* 1-Onboarding
-* 2-Home
-* 3-Message detail
-* 4-Profile
-* 5-Settings
-* 6-Profile
+* Onboarding
+* Home
+* Message detail
+* Profile
+* Settings
+* Profile
 
 **Components**
 * name_surname_and_image_area
