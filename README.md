@@ -25,6 +25,6 @@
 
 ![photo_2021-01-18_13-19-31](https://user-images.githubusercontent.com/21203901/104902629-0476f680-5990-11eb-9e11-0be895b42d0c.jpg)
 
-![photo_2021-01-18_13-19-29](https://user-images.githubusercontent.com/21203901/104902651-093baa80-5990-11eb-858b-747104bf175d.jpg)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/21203901/104903554-39d01400-5991-11eb-8e1d-6a3f8eb3c61c.png)
 
 ![photo_2021-01-18_13-19-23](https://user-images.githubusercontent.com/21203901/104902711-1c4e7a80-5990-11eb-8bf3-73ec9bcd8f16.jpg)
