@@ -27,4 +27,4 @@
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/21203901/104903554-39d01400-5991-11eb-8e1d-6a3f8eb3c61c.png)
 
-![photo_2021-01-18_13-19-23](https://user-images.githubusercontent.com/21203901/104902711-1c4e7a80-5990-11eb-8bf3-73ec9bcd8f16.jpg)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/21203901/104903677-62f0a480-5991-11eb-9102-da8fbb9a8470.png)
